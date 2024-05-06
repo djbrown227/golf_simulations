@@ -1,4 +1,4 @@
-**Golf Simulator Overview**
+### Golf Simulator Overview ###
 Below are descriptions of the main two DFS Draftkings Golf Simulators that I use. They are both considered Monte Carlo simulators. 
 The first one, Player_Prob_Distributions.py, relies on a custom built hole by hole
 simulator, relying on golf hole analysis and clustering, and players individual probability distributions on those holes. We simulate each hole for each player, simulate a
@@ -34,7 +34,7 @@ The provided functions and simulation logic enable the simulation of golf tourna
 
 **Golfer_MissMake__Cut_Distributions.py**
 
-### Golf Performance Simulation with Player Probabilities
+### Golf Performance Simulation with Player Probabilities ###
 
 The following code snippet performs a simulation of golfer performance based on player statistics and probabilities. Here's an overview of the functionalities:
 
